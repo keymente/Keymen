@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.anakutu{
+    width: 90%;
+    height: 90vh;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.menukutu{
+    width: 100%;
+    height: 10%;
+    background-color: hotpink;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
